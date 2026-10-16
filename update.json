@@ -1,7 +1,7 @@
 {
   "update_available": true,
   "version": "1.1.0",
-  "download_url": "https://github.com/noter4a/controledepassos/releases/download/v1.1.0/Setup_SpeedGov_PID_1.1.0.exe",
-  "sha256": "45ca0e2bb547c7ff166929e55cf3fd9688ce6eb3ff1c6450f6e18ef8d8b4fb80",
+  "download_url": "https://github.com/noter4a/controledepassos/releases/download/v1.1.0/Setup_SpeedGov_PID_1.2.0.exe",
+  "sha256": "b48f60080377e46c555b3527ccd0e9feebe81401f8c55dadb5222259b456e9ac",
   "changelog": "- Correções e melhorias"
 }
